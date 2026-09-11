@@ -9,7 +9,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+
 
 `Systems Engineering` · `RF/Antenna` · `Communication Systems` · `Radar` · `Signal Processing`
 
